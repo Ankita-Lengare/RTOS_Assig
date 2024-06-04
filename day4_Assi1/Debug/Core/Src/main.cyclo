@@ -1,0 +1,11 @@
+../Core/Src/main.c:62:6:vLedTask1	1
+../Core/Src/main.c:74:6:vLedTask2	1
+../Core/Src/main.c:87:6:vLedTask3	1
+../Core/Src/main.c:100:6:vLedTask4	1
+../Core/Src/main.c:119:5:main	5
+../Core/Src/main.c:214:6:SystemClock_Config	3
+../Core/Src/main.c:261:13:MX_GPIO_Init	1
+../Core/Src/main.c:295:6:StartDefaultTask	1
+../Core/Src/main.c:313:6:StartTask02	1
+../Core/Src/main.c:332:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:349:6:Error_Handler	1
